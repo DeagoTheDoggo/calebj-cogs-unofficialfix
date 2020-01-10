@@ -5,10 +5,8 @@
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/calebj)
 [![Patreon](https://img.shields.io/badge/Support-me!-f96854.svg)](https://www.patreon.com/calebj)
 [![Donate](https://img.shields.io/badge/Paypal-donate-0070ba.svg)](https://paypal.me/calebrj)
-[![discord.py](https://img.shields.io/badge/discord.py-async-blue.svg)](https://github.com/Rapptz/discord.py)
+[![discord.py](https://img.shields.io/badge/discord-py-blue.svg)](https://github.com/Rapptz/discord.py)
 [![Red-DiscordBot](https://img.shields.io/badge/Red--DiscordBot-v3-red)](https://github.com/Cog-Creators/Red-DiscordBot/)
-[![Support server invite](https://img.shields.io/discord/240154543684321280.svg?colorB=7289DA)](https://discord.gg/2DacSZ7)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-6f42c1.svg)](http://makeapullrequest.com)
 
 This repo contains cogs I've written, as well as those I've modified and republished when a PR was either unwanted or too drastic of a change from the original cog's scope.
 
