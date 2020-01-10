@@ -1,4 +1,4 @@
-# CalebJ Cogs
+# CalebJ Cogs *Unofficial* FIX
 #### General, fun and utility modules for [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot/) v2.
 
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/calebj)
