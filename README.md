@@ -45,7 +45,7 @@ I have no official contact but you can support the ORIGINAL owner down below.
 
 Support the original creator on [PayPal](https://paypal.me/calebrj) or [becoming a patron](https://www.patreon.com/calebj).
 
-## Cog Summaries (incl. fixed ones)
+## Cog Summaries
 * [activitylog](#activitylog): Log messages, attachments, and server changes to disk.
 * [captcha](#captcha): Challenge new members with a random code to verify their humanity.
 * customgcom: Bot-wide custom commands. Only the bot owner can add/remove them.
