@@ -1,5 +1,6 @@
 # CalebJ Cogs *Unofficial* FIX
-#### General, fun and utility modules for [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot/) v2.
+#### FORKED FROM [calebj-cogs](https://github.com/calebj/calebj-cogs)
+#### General, fun and utility modules for [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot/) v3.
 
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/calebj)
 [![Patreon](https://img.shields.io/badge/Support-me!-f96854.svg)](https://www.patreon.com/calebj)
@@ -36,20 +37,18 @@ Type the following commands into any channel your bot can see, or in a direct me
 
 **1. Adding the repo** - replace `[p]` with your bot's prefix:
 ```
-[p]cog repo add calebj-cogs https://github.com/calebj/calebj-cogs
+[p]cog repo add calebj-cogs-unofficialfix https://github.com/DeagoTheDoggo/calebj-cogs-unofficialfix
 ```
 
 **2. Installing a cog** - replace `[COG_NAME]` with the name of the cog you want:
 ```
-[p]cog install calebj-cogs [COG_NAME]
+[p]cog install calebj-cogs-unofficialfix [COG_NAME]
 ```
 
 ## Support and Contact
-If you have questions or need support for any of my cogs, please ask in my [Red Cog support server](https://discord.gg/2DacSZ7) channel (#support_calebj). I may ask you to open a GitHub issue in this repo if your fix or request isn't a quick one.
+I have no official contact but you can support the ORIGINAL owner down below.
 
-If you want to contact me directly, I am **@calebj#0001** on Discord, and my email is **me@calebj.io**.
-
-If my cogs have made your life easier, consider supporting me through [PayPal](https://paypal.me/calebrj) or [becoming a patron](https://www.patreon.com/calebj). I also take cog commissions, which can either be public (added to this repo) or private (only for you).
+Support the original creator on [PayPal](https://paypal.me/calebrj) or [becoming a patron](https://www.patreon.com/calebj).
 
 ## Cog Summaries
 * [activitylog](#activitylog): Log messages, attachments, and server changes to disk.
