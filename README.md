@@ -6,7 +6,7 @@
 [![Patreon](https://img.shields.io/badge/Support-me!-f96854.svg)](https://www.patreon.com/calebj)
 [![Donate](https://img.shields.io/badge/Paypal-donate-0070ba.svg)](https://paypal.me/calebrj)
 [![discord.py](https://img.shields.io/badge/discord.py-async-blue.svg)](https://github.com/Rapptz/discord.py)
-[![Red-DiscordBot](https://img.shields.io/badge/Red--DiscordBot-v2-red.svg)](https://github.com/Cog-Creators/Red-DiscordBot/)
+[![Red-DiscordBot](https://img.shields.io/badge/Red--DiscordBot-v3-red)](https://github.com/Cog-Creators/Red-DiscordBot/)
 [![Support server invite](https://img.shields.io/discord/240154543684321280.svg?colorB=7289DA)](https://discord.gg/2DacSZ7)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-6f42c1.svg)](http://makeapullrequest.com)
 
