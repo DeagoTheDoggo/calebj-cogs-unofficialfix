@@ -64,7 +64,7 @@ Support the original creator on [PayPal](https://paypal.me/calebrj) or [becoming
 * sinfo: Simple text dump of server and channel information.
 * [watchdog](#watchdog): Helps systemd know when your bot is functioning.
 * [xorole](#xorole): Self-role functionality with single-membership role sets.
-###Fixed:
+### Fixed:
 * zalgo: H͕̭͒̈́E̡̩͋͐ C̺̻̉O̟͋M̞̐Ę͒ͅS̬̣̍́.
 
 [squid_scheduler]: https://github.com/tekulvw/Squid-Plugins/blob/master/scheduler/scheduler.py
