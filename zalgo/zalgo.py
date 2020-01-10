@@ -1,5 +1,6 @@
-from discord.ext import commands
+from redbot.core import bank, checks, commands
 from random import randint, choice, sample
+import discord
 
 ZALGO_DEFAULT_AMT = 3
 ZALGO_MAX_AMT = 7
@@ -16,20 +17,17 @@ ZALGO_CHARS = {
     'overlay': ['\u0334', '\u0335', '\u0336', '\u0337', '\u0338']
 }
 
-class Zalgo:
-    def __init__(self, bot):
-        self.bot = bot
-
+class Zalgo(commands.Cog):
     @commands.command()
-    async def zalgo(self, *, text: str):
-        fw = text.split()[0]
+    async def zalgo(self, ctx, *, message):
+        fw = message.split()[0]
         try:
             amount = min(int(fw), ZALGO_MAX_AMT)
-            text = text[len(fw):].strip()
+            message = message[len(fw):].strip()
         except ValueError:
             amount = ZALGO_DEFAULT_AMT
-        text = self.zalgoify(text.upper(), amount)
-        await self.bot.say(text)
+        message = self.zalgoify(message, amount)
+        await ctx.send(message)
 
     def zalgoify(self, text, amount=3):
         zalgo_text = ''
@@ -41,7 +39,3 @@ class Zalgo:
                     n = min(randint(*range), len(ZALGO_CHARS[t]))
                     zalgo_text += ''.join(sample(ZALGO_CHARS[t], n))
         return zalgo_text
-
-def setup(bot):
-    n = Zalgo(bot)
-    bot.add_cog(n)
