@@ -601,4 +601,4 @@ The gibberish seen at the top of most of the cogs is actually a compressed form 
 ## License and Copyright
 Except for [scheduler](scheduler/), which is licensed under the [MIT license](scheduler/LICENSE), all code in this repository is licensed under the [GNU General Public License version 3](LICENSE).
 
-Copyright (c) 2016-2018 Caleb Johnson, contributors and original authors.
+Copyright (c) 2016-2018 Caleb Johnson and DeagoTheDoggo 2020, contributors and original authors.
