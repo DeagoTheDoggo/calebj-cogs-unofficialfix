@@ -32,7 +32,7 @@ Type the following commands into any channel your bot can see, or in a direct me
 
 **1. Adding the repo** - replace `[p]` with your bot's prefix:
 ```
-[p]cog repo add calebj-cogs-unofficialfix https://github.com/DeagoTheDoggo/calebj-cogs-unofficialfix
+[p]repo add calebj-cogs-unofficialfix https://github.com/DeagoTheDoggo/calebj-cogs-unofficialfix
 ```
 
 **2. Installing a cog** - replace `[COG_NAME]` with the name of the cog you want:
@@ -64,6 +64,7 @@ Support the original creator on [PayPal](https://paypal.me/calebrj) or [becoming
 * sinfo: Simple text dump of server and channel information.
 * [watchdog](#watchdog): Helps systemd know when your bot is functioning.
 * [xorole](#xorole): Self-role functionality with single-membership role sets.
+###Fixed:
 * zalgo: H͕̭͒̈́E̡̩͋͐ C̺̻̉O̟͋M̞̐Ę͒ͅS̬̣̍́.
 
 [squid_scheduler]: https://github.com/tekulvw/Squid-Plugins/blob/master/scheduler/scheduler.py
